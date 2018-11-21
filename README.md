@@ -22,7 +22,11 @@ Learning Outcomes for attendees of this workshop:
 * Other parallel libraries:
   * [pymp -- OpenMP-like functionality for Python](notebooks/pymp.ipynb)
 
+<!-- 
+
 ## Running the Notebooks for this Workshop
+
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgit.rcc.uchicago.edu%2Fjhskone%2Fmultiproc_py.git/38f9bb6ce3602b73a8ddd1dbcad3f5f9a8d21f6a?urlpath=lab/tree/master.ipynb)
 
 
@@ -42,4 +46,4 @@ but essentially does the same thing. If we need to resort to using Colaboratory,
 we will have to import this repository and unfortunately Colaboratory only 
 supports GitHub at this time, so we will have to use a mirror of this repo in GitHub. 
 
-
+-->
