@@ -1,3 +1,5 @@
+<!-- Course of Parallel Programming in Python: Multithreading and Multiprocessing  by Jonathan H Skone U Chicago -->
+
 # Parallel Programming in Python: Multithreading and Multiprocessing
 
 Material for the threading and multiprocessing in python workshop (Fall of 2018).
