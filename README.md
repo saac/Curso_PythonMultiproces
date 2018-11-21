@@ -48,5 +48,4 @@ supports GitHub at this time, so we will have to use a mirror of this repo in Gi
 
 -->
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/saac/Curso_PythonMultiproces.git/master?filepath=master.ipynb)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/saac/Curso_PythonMultiproces.git/master?urlpath=lab%2Ftree%2Fmaster.ipynb)
