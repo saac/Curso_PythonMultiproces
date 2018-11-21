@@ -23,7 +23,7 @@ Learning Outcomes for attendees of this workshop:
   * [pymp -- OpenMP-like functionality for Python](notebooks/pymp.ipynb)
 
 ## Running the Notebooks for this Workshop
-## [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgit.rcc.uchicago.edu%2Fjhskone%2Fmultiproc_py.git/38f9bb6ce3602b73a8ddd1dbcad3f5f9a8d21f6a?urlpath=lab/tree/master.ipynb)
+##[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgit.rcc.uchicago.edu%2Fjhskone%2Fmultiproc_py.git/38f9bb6ce3602b73a8ddd1dbcad3f5f9a8d21f6a?urlpath=lab/tree/master.ipynb)
 
 
 We will rely on cloud compute resources that you will connect to through your web browser.
