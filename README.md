@@ -68,7 +68,10 @@ supports GitHub at this time, so we will have to use a mirror of this repo in Gi
 
 <!-- Actualizar la liga para Jupyter Lab -->
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/saac/Curso_PythonMultiproces/master)
+<!-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/saac/Curso_PythonMultiproces/master) -->
 
-<!--[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/saac/Curso_PythonMultiproces/master?urlpath=lab/tree/index.ipynb)-->
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/saac/Curso_PythonMultiproces/master?urlpath=lab/blob/master/master.ipynb
 
+
+
+<!--https://github.com/saac/Curso_PythonMultiproces/blob/master/master.ipynb -->
